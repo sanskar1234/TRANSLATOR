@@ -1,2 +1,2 @@
-# Translator
+# `Translator`
 Translatiion GUI
